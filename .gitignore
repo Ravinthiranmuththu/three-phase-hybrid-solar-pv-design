@@ -1,0 +1,6 @@
+~$*.xlsx
+*.bak
+*.dxf~
+*.autosave
+.DS_Store
+Thumbs.db
